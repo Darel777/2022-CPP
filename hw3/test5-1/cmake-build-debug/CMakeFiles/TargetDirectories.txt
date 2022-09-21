@@ -1,0 +1,3 @@
+D:/windows/desktop/C++(MOODLE)/hw3/test5-1/cmake-build-debug/CMakeFiles/test5_1.dir
+D:/windows/desktop/C++(MOODLE)/hw3/test5-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/windows/desktop/C++(MOODLE)/hw3/test5-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
