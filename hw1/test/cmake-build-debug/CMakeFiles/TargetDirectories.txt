@@ -1,0 +1,3 @@
+D:/windows/desktop/C++(MOODLE)/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/windows/desktop/C++(MOODLE)/test/cmake-build-debug/CMakeFiles/test.dir
+D:/windows/desktop/C++(MOODLE)/test/cmake-build-debug/CMakeFiles/edit_cache.dir
